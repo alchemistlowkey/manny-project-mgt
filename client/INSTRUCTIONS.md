@@ -28,3 +28,5 @@ this will create the tables on the neon database from the schema file
 15. goto inngest.com and login/register
 16. goto the key and select the Event key then copy to your .env INNGEST_EVENT_KEY
 17. do same and select the singing keys and copy to your .env INNGEST_SIGNING_KEY
+18. after all those, the .env is complete, next is to deploy the backend.
+19. After deployment, obtain the backend address then add to inngest so as to listen to the api
